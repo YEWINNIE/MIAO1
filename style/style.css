@@ -1,4 +1,22 @@
 body {
   background-color: antiquewhite;
 }
+
+header {
+  width: 300px;
+  height: 25px;
+  background-color: crimson;
+}
+
+#main {
+  width: 600px;
+  height: 450px;
+  background-color: mediumblue;
+}
+
+footer {
+  width: 100px;
+  height: 350px;
+  background-color: gold;
+}
 /*# sourceMappingURL=style.css.map */
